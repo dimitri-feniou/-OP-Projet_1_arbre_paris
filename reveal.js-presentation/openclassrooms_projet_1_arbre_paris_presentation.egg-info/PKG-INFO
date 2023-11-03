@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: openclassrooms-projet-1-arbre-paris-presentation
+Version: 0.2.0
+Summary: Présentation Openclassrooms Projet 2 Analyse Arbre Paris
+Home-page: https://github.com/dimitri-feniou/-OP-Projet_1_arbre_paris
+Author: Feniou Dimitri
+Author-email: 
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
+License-File: LICENSE
+
+create and add reveal.js HTML presentations to your streamlit app
